@@ -42,4 +42,8 @@ img:hover + .hide{
 	color:white;
 }
 
+#panel-1:active{
+	flex:5;
+}
+
 
