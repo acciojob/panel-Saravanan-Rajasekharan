@@ -42,7 +42,7 @@ img:hover + .hide{
 	color:white;
 }
 
-#panel-3:active{
+.flex-item:active{
 	flex:5;
 }
 
