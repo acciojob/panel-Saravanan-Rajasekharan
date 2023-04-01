@@ -1,6 +1,11 @@
 body{
 	font-family:Helvetica, sans-serif;
 }
+#panel-1 > h3{
+	display:block;
+	color:white;
+}
+
 .flex-container{
 	display:flex;
 	padding:20px;
@@ -36,4 +41,5 @@ img:hover + .hide{
 	display:block;
 	color:white;
 }
+
 
